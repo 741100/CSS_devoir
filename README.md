@@ -1,3 +1,4 @@
-# CSS_devoir
+#theme :astra
+Modifs: Header & footer
+Hooks utilisés: wp_enqueue_scripts , wp .
 
-WordPress child theme customization project.
